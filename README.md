@@ -20,7 +20,8 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [mshakilawan735@gmail.com](mailto:mshakilawan735@gmail.com)  
+- 📧 Email: [mshakilawan735@gmail.com](mailto:mshakilawan735@gmail.com)
+- 💬 WhatsApp: [Chat with me on WhatsApp](https://wa.me/923134828198) — +92 313 4828198
 - 💼 LinkedIn: [linkedin.com/in/flutterdeveloper1](https://www.linkedin.com/in/flutterdeveloper1/)  
 - 🌍 Website: [flutterstudio.dev](https://flutterstudio.dev)  
 - 📍 Based in **Punjab, Pakistan**
